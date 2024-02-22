@@ -1,0 +1,6 @@
+{
+  "dbUrl": "jdbc:postgresql://127.0.0.1:55555/my_test_database",
+  "InitDBSql": "src/main/resources/sql/init_db.sql",
+  "dbUser": "postgres",
+  "dbPass": "12345"
+}
